@@ -1,4 +1,5 @@
 # labspy02
+# LANGKAH PROGRAM 
 # Masukkan bilangan sebanyak 3 buah bilangan
 # Setelah bilangan diinputkan, maka program akan membandingkan 3 buah bilangan tersebut.
 # Perbandingan menggunakan statement if, elif, else
